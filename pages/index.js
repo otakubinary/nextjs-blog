@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       </Head>
 
       <section className={utilStyles.headingMd}>
-        <p>おはよう (•◡•) / Beginner Dev and Vtuber</p>
+        <p>おはよう (•◡•) / Beginner Dev and Vtuber <a href="https://linkr.bio/otakubinary" target={"_blank"}>More Info</a></p>
         <p>
           (This is a sample website - you'll be building a site like this on {' '}
             <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
